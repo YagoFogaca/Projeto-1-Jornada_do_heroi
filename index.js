@@ -1,4 +1,3 @@
-// trocar a historia para a do sanduichi do chaves
 const prompt = require('prompt-sync')();
 console.clear();
 let sim = 0;
@@ -52,3 +51,4 @@ if (sim === 5) {
 } else {
     console.log('Você falha miseravelmente e toda a humanidade será extinta.');
 }
+// apenas um teste;
